@@ -37,4 +37,4 @@ I'm a 20-year-old greenhat hacker and software engineering student from **Luebec
 
 💬 discord • [thrax#1337](https://discord.com/)
 
-💻 kit.co • [theyhatethrax](https://kit.co/theyhatethrax)
+💻 twitter • [theyhatethrax](https://twitter.com/theyhatethrax)
