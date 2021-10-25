@@ -1,4 +1,4 @@
-## 🌐 **Hi! I'm thrax.**
+## 🌐 **Hi! I'm Julian aka thrax.**
 
 I'm a 20-year-old greenhat hacker and software engineering student from **Luebeck, Germany**.
 
