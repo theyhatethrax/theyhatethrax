@@ -8,7 +8,7 @@ I'm a 21-year-old greenhat hacker and software engineering student from **Luebec
 
 - Java
 - C (embedded)
-- HTML, CSS (TailwindCSS)
+- HTML, CSS
 - MySQL, MariaDB
 - Bash
 
@@ -16,9 +16,9 @@ I'm a 21-year-old greenhat hacker and software engineering student from **Luebec
 
 ### Currently Learning
 
-- Python (Flask)
-- JavaScript (React, Next.js)
-- PHP (Laravel)
+- Python
+- JavaScript
+- PHP
 
 ---
 
@@ -35,6 +35,6 @@ I'm a 21-year-old greenhat hacker and software engineering student from **Luebec
 
 ✉️ mail • [theyhatethrax@protonmail.com](mailto:theyhatethrax@protonmail.com)
 
-💬 discord • [thrax#1337](https://discord.com/)
+💬 discord • [thrax#2193](https://discord.com/)
 
 💻 twitter • [theyhatethrax](https://twitter.com/theyhatethrax)
