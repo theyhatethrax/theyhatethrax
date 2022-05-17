@@ -17,8 +17,7 @@ I'm a 21-year-old greenhat hacker and software engineering student from **Luebec
 ### Currently Learning
 
 - Python
-- JavaScript
-- PHP
+- PyScript
 
 ---
 
