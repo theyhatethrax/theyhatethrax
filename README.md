@@ -1,6 +1,6 @@
 ## 🌐 **Hi! I'm Julian aka thrax.**
 
-I'm a 21-year-old greenhat hacker and software engineering student from **Luebeck, Germany**.
+I'm a 21-year-old cyber security student from **Luebeck, Germany**.
 
 ---
 
@@ -8,15 +8,15 @@ I'm a 21-year-old greenhat hacker and software engineering student from **Luebec
 
 - Java
 - C (embedded)
-- HTML, CSS
+- basic HTML, CSS, js
 - MySQL, MariaDB
 - Bash
+- Python
 
 ---
 
 ### Currently Learning
 
-- Python
 - PyScript
 
 ---
