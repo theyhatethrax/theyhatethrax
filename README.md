@@ -1,6 +1,6 @@
 ## 🌐 **Hi! I'm Julian aka thrax.**
 
-I'm a 21-year-old cyber security student from **Luebeck, Germany**.
+I'm a 21-year-old cyber security student from **Hamburg, Germany**.
 
 ---
 
