@@ -34,6 +34,6 @@ I'm a 21-year-old cyber security student from **Hamburg, Germany**.
 
 ✉️ mail • [theyhatethrax@protonmail.com](mailto:theyhatethrax@protonmail.com)
 
-💬 discord • [thrax#2193](https://discord.com/)
+💬 discord • [thrax#0322](https://discord.com/)
 
-💻 twitter • [theyhatethrax](https://twitter.com/theyhatethrax)
+💻 steam • [theyhatethrax](https://steamcommunity.com/id/autoscooter/)
