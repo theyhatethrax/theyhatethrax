@@ -8,7 +8,7 @@ I'm a 22-year-old cyber security student from **Hamburg, Germany**.
 
 - Java
 - C (embedded)
-- basic HTML, CSS, js
+- HTML, DOM, CSS, JS, XML, JSON, RESTful, Ajax, PHP
 - MySQL, MariaDB
 - Bash
 - Python
@@ -33,7 +33,3 @@ I'm a 22-year-old cyber security student from **Hamburg, Germany**.
 ### Contact
 
 ✉️ mail • [theyhatethrax@protonmail.com](mailto:theyhatethrax@protonmail.com)
-
-💬 discord • [thrax#0322](https://discord.com/)
-
-💻 steam • [theyhatethrax](https://steamcommunity.com/id/autoscooter/)
